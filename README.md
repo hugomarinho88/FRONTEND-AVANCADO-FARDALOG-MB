@@ -1,4 +1,4 @@
-# ⚓ FardaLog MB
+#  FardaLog MB
 
 Sistema Front-end desenvolvido em React para simular a cadeia logística de fardamento.
 

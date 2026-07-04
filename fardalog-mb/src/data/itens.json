@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nome": "Gorro Branco",
+    "categoria": "Cobertura",
+    "estoque": 120,
+    "status": "Disponível"
+  },
+  {
+    "id": 2,
+    "nome": "Gorro Azul",
+    "categoria": "Cobertura",
+    "estoque": 80,
+    "status": "Disponível"
+  },
+  {
+    "id": 3,
+    "nome": "Boné Operacional",
+    "categoria": "Cobertura",
+    "estoque": 25,
+    "status": "Baixo Estoque"
+  },
+  {
+    "id": 4,
+    "nome": "Coturno Preto",
+    "categoria": "Calçado",
+    "estoque": 150,
+    "status": "Disponível"
+  },
+  {
+    "id": 5,
+    "nome": "Sapato Social Preto",
+    "categoria": "Calçado",
+    "estoque": 40,
+    "status": "Disponível"
+  },
+  {
+    "id": 6,
+    "nome": "Calça Branca",
+    "categoria": "Uniforme",
+    "estoque": 90,
+    "status": "Disponível"
+  },
+  {
+    "id": 7,
+    "nome": "Calça Azul",
+    "categoria": "Uniforme",
+    "estoque": 15,
+    "status": "Baixo Estoque"
+  },
+  {
+    "id": 8,
+    "nome": "Camisa Branca",
+    "categoria": "Uniforme",
+    "estoque": 110,
+    "status": "Disponível"
+  },
+  {
+    "id": 9,
+    "nome": "Camisa Azul",
+    "categoria": "Uniforme",
+    "estoque": 65,
+    "status": "Disponível"
+  },
+  {
+    "id": 10,
+    "nome": "Gandola Camuflada",
+    "categoria": "Operacional",
+    "estoque": 30,
+    "status": "Em Ressuprimento"
+  },
+  {
+    "id": 11,
+    "nome": "Calça Camuflada",
+    "categoria": "Operacional",
+    "estoque": 28,
+    "status": "Em Ressuprimento"
+  },
+  {
+    "id": 12,
+    "nome": "Cinto Preto",
+    "categoria": "Acessório",
+    "estoque": 95,
+    "status": "Disponível"
+  },
+  {
+    "id": 13,
+    "nome": "Luvas Pretas",
+    "categoria": "Acessório",
+    "estoque": 18,
+    "status": "Baixo Estoque"
+  },
+  {
+    "id": 14,
+    "nome": "Platina de Oficial",
+    "categoria": "Insígnia",
+    "estoque": 55,
+    "status": "Disponível"
+  },
+  {
+    "id": 15,
+    "nome": "Distintivo de Organização Militar",
+    "categoria": "Insígnia",
+    "estoque": 75,
+    "status": "Disponível"
+  }
+]

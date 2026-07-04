@@ -1,0 +1,23 @@
+.status-badge {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  width: fit-content;
+}
+
+.disponivel {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.baixo-estoque {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.em-ressuprimento {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
